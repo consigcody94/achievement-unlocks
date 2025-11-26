@@ -11,3 +11,6 @@ This is feature 2 content.
 
 ## Feature 3
 This is feature 3 content.
+
+## Feature 4
+This is feature 4 content.
