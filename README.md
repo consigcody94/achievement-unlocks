@@ -23,3 +23,6 @@ Additional content for update 6.
 
 ## Update 7
 Additional content for update 7.
+
+## Update 8
+Additional content for update 8.
