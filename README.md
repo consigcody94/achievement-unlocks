@@ -38,3 +38,6 @@ Additional content for update 11.
 
 ## Update 12
 Additional content for update 12.
+
+## Update 13
+Additional content for update 13.
