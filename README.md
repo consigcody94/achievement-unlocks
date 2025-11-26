@@ -17,3 +17,6 @@ This is feature 4 content.
 
 ## Feature 5
 This is feature 5 content.
+
+## Update 6
+Additional content for update 6.
