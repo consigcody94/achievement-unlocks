@@ -35,3 +35,6 @@ Additional content for update 10.
 
 ## Update 11
 Additional content for update 11.
+
+## Update 12
+Additional content for update 12.
