@@ -20,3 +20,6 @@ This is feature 5 content.
 
 ## Update 6
 Additional content for update 6.
+
+## Update 7
+Additional content for update 7.
